@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @secilvergili Seçil Vergili
+- I am Empathy, Affectionate,Intuition, Process-Human-Employee-Orientation,Knowledge Sharing,Attention-to-Detail,
+  Digital-Content Creativity-Originality-Software Developer, ICF Professional Coach, Teacher
 - 👀 I’m interested in software development, education technologies, coaching.
 - 🌱 I’m currently learning HTML5, CSS3, GitHub, JS...
 - 💞️ I’m looking to collaborate on projects...
