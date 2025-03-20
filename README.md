@@ -1,28 +1,27 @@
-# 👋 Hi, I’m Seçil Vergili (@secilvergili)
+# 👋 Hi, I’m Seçil Vergili!  
 
-I am a passionate **Software Developer** with a strong foundation in **Creative & Design Thinking, Analytical Problem-Solving, and Effective Communication**. My background as an **educator, mentor, and coach** has equipped me with a unique perspective on collaboration, innovation, and knowledge-sharing.
+-I am a passionate **Software Developer** with a strong background in **Creative & Analytical Thinking, Problem-Solving, and Effective Communication**. After 16 years as an **Educator, Mentor, and Coach**, I have transitioned into the dynamic world of **Software Development**, where I blend my expertise as a **Software Developer** to build innovative solutions.  
 
-## 🔹 About Me  
-- 🎯 Transitioning from 16 years in **Natural Sciences Education & Mentorship** to Software Development.  
-- 🤝 Strong team player with expertise in **collaborative development, attention to detail, and human-centered problem-solving**.  
-- 💡 Enthusiastic about **STEMArt, EdTech, Coaching & Mentoring**.  
-- 📌 Committed to **lifelong learning and continuous improvement**.  
+## 💡 What Defines Me?  
+✅ Strong **team player** with excellent collaboration and leadership skills  
+✅ Detail-oriented and **solution-driven mindset**  
+✅ Passionate about **Technologies and Digital Innovation**  
+✅ Lifelong learner dedicated to **continuous growth and adaptation**  
 
-## 🔹 Tech Stack  
+## 🔹 My Tech Stack & Focus  
 🌱 Currently expanding my expertise in:  
-- **Frontend**: React, Tailwind, TypeScript, JavaScript, HTML5, CSS3, SCSS, Bootstrap  
-- **Backend**: Node.js, Express.js, MongoDB  
-- **Mobile**: React Native  
-- **Version Control**: Git & GitHub  
+- **Frontend:** React, Tailwind, TypeScript, JavaScript, HTML5, CSS3, SCSS, Bootstrap  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Mobile:** React Native  
+- **Version Control:** Git & GitHub  
 
-## 🔹 Let's Connect  
-💌 **Email**: secilvergili@gmail.com  
-🔗 **LinkedIn**: [www.linkedin.com/in/seçil-vergili-553798167](https://www.linkedin.com/in/seçil-vergili-553798167)  
+## 🔹 What I’m Looking For  
+🚀 Open to **collaborations, networking, and opportunities** in **Software Development, EdTech, and Digital Innovation**.  
 
-🚀 Open to collaborations on **EdTech projects, STEM innovations, and impactful software solutions!**  
+💡 If you’re working on exciting projects or looking for a passionate developer with a unique interdisciplinary approach, let’s connect!  
 
-
-<!---
-secilvergili/secilvergili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Let's Connect!  
+📧 **Email:** secilvergili@gmail.com  
+🔗 **LinkedIn:** [www.linkedin.com/in/secilvergili](https://www.linkedin.com/in/secilvergili)  
+💻 **GitHub:** [github.com/secilvergili](https://github.com/secilvergili)  
+📸 **Instagram:** [www.instagram.com/secilvergili](https://www.instagram.com/secilvergili)  
